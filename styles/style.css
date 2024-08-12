@@ -23,7 +23,13 @@
     display: flex;
     align-items: center;
     flex-direction: row;
-    
+    border: 1px solid white;
+    border-radius: 50px;
+    width: 465px;
+    padding: 4px;
+    height: 46px;
+    box-sizing: border-box;
+    justify-content: flex-start;
 }
 nav ul li{
     list-style: none;
@@ -43,9 +49,47 @@ nav ul li{
     margin-top: 57px;
     
 }
+.s1{
+   color: rgb(255, 255, 255); 
+   font-size: 78px;
+   font-weight:700;
+   text-align: left;
+   letter-spacing: 0%;
+   align-self: stretch;
+   margin: 28px 20px;
+   flex: none;
+   line-height: 120%;
+   position: static;
+}
+.s2{
+    color: rgba(255, 255, 255, 0.5);
+    position: static; 
+    width: 520px;
+    font-weight: 48px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    margin: 28px 20px;
+}
+.btn1{
+    background-color: rgb(230, 83, 60);
+}
+.btn2{
 
-
-
-
-
-
+}
+.btn{
+    color: rgb(255, 255, 255);
+    width: 224px;
+    height: 54px;
+    padding: 16px 40px 16px 40px;
+    border-radius: 42px;
+    margin: 0px 14px;
+    border: 1px solid rgb(255, 255, 255);
+}
+.sec1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 180px;
+    margin-right: 180px;
+}
