@@ -74,9 +74,6 @@ nav ul li{
 .btn1{
     background-color: rgb(230, 83, 60);
 }
-.btn2{
-
-}
 .btn{
     color: rgb(255, 255, 255);
     width: 224px;
@@ -92,4 +89,24 @@ nav ul li{
     justify-content: space-between;
     margin-left: 180px;
     margin-right: 180px;
+}
+.txt{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 100px;
+}
+.txt1{
+    padding: 0px;
+    font-size: 48px;
+    font-weight: 900;
+    margin: 14px 0px;
+    position: static;
+
+}
+.txt2{
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 14px;
+    margin: 14px 0px;
+    padding: 0px;
+    font-weight: 400;
 }
