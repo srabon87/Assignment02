@@ -114,7 +114,7 @@ nav ul li{
     align-items: center;
     margin-left: 240px;
     margin-right: 200px;
-    margin-bottom: 100px;  
+    margin-bottom: 75px;  
 }
 .img{
     border-radius: 50%;
@@ -192,12 +192,120 @@ nav ul li{
 }
 .all2{
     background: rgb(34, 34, 34);
-    margin-left: 15px;
+    margin-left: 20px;
 }
 .all3{
-    margin-right: 15px;
+    margin-right: 20px;
     border-radius: 18px;
-    
+}
+/* .dive{
+    color: rgb(255, 255, 255);
+    margin-bottom: 88px;
+    margin-left: 50px;
+}
+.dive1{
+    position: static;
+    width: 353px;
+    height: 58px;
+    padding: 0px;
+    margin-left: 384.5px;
+    margin-right: 702.5px;
+    font-size: 48px;
+    font-weight: 900;
+    margin-bottom: 14px;
+}
+.dive2{
+    color: rgba(255, 255, 255, 0.5);
+    width: 6741px;
+    height: 48px;
+    margin-top: 0px;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 0px;
+    margin-left: 384.5px;    
+    margin-right: 384.5px;    
+} */
+.input{
+    color: rgb(255, 255, 255);
+}
+.tr{
+    display: grid;
+    grid-template-columns: 2,1fr;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+}
+.td{
+    width: 310px;
+    height: 216px;
+    /* top: 138px;
+    bottom: 133px; */
+}
+.divs{
+    color: rgb(255, 255, 255);
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 14;
+    order: 1;
+    justify-content: flex-start;
+    margin-bottom: 78px;  
+    position: static;
+    flex: none;
+}
+.divs2{
+    margin-bottom: 4px;
+    font-size: 48px;
+    font-weight: 900;
+
+}
+.divs3{
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0.3px;
+    line-height: 24px;
+    margin-top: 0px;
+    color: rgba(255, 255, 255, 0.5);
+}
+.main-contain{
+    color: rgb(255, 255, 255);
+    margin: 0 auto;
+    max-width: 1100px;   
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    border-radius: 18px;
+    /* background: rgba(255, 255, 255, 0.1); */
+    height: 603px;
+    margin-bottom: 88px;
+}
+.main2-contain{
+    position: relative;
+    background: rgba(255, 255, 255, 0.1);
+    /* margin-top: 20px; */
+}
+.im{
+    width: 326.67px;
+    height: 272px;
+    border-radius: 18px;
+    margin: 0px 20px 0px 20px;
+}
+.typ2{
+    font-weight: 700;
+    font-size: 28px;
+    margin-top:50px;
+    margin-bottom: 0px;
+    margin-left: 40px;
+}
+.typ{
+    font-size: 14px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.5);
+    margin-top: 90px;
+    margin-bottom: 0px;
+    margin-left: 40px;
 }
 
+.text{
+    position: absolute;
+    top: 50%;
+    
+}
    
