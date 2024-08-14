@@ -1,0 +1,53 @@
+@media screen and (max-width: 576px) {
+    .nav-main{
+        flex-direction: column;
+    }
+    .head{
+        flex-direction: column;
+    }
+    .sec1{
+        flex-direction: column;
+    }
+    .btn1{
+        flex-direction: row;
+    }
+    .btn2{
+        flex-direction: row;
+    }
+    .txt{
+        flex-direction: column;
+    }
+    .contain{
+        flex-direction: column;
+    }
+    .all2{
+        flex-direction: row;
+    }
+    .all3{
+        flex-direction: row;
+    }
+    .all{
+        flex-direction: row;
+    }
+    .divs{
+        flex-direction: column;
+    }
+    .main2-contain{
+        grid-template-columns: repeat(6,1fr);
+    }
+    .row{
+        flex-direction: column;
+    }
+    /* .dibe{
+        flex-direction: column;
+    }
+    .dib{
+        flex-direction: column;
+    }
+    .dib2{
+        flex-direction: column;
+    } */
+    .copyright{
+        flex-direction: column;
+    }
+}
