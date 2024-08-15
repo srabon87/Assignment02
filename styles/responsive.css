@@ -51,4 +51,8 @@
     .dive{
         flex-direction: column;
     }
+    .bmi{
+        flex-direction: column;
+    }
+    
 }
