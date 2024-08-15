@@ -188,7 +188,7 @@ nav ul li{
 .all{
     display: flex;
     justify-content: space-between;
-    width: 1060px;
+    width: 1300px;
     height: 371px;
     align-items: center;
     margin-left: 400px;
@@ -198,10 +198,10 @@ nav ul li{
 }
 .all2{
     background: rgb(34, 34, 34);
-    margin-left: 40px;
+    margin-left: 30px;
 }
 .all3{
-    margin-right: 10px;
+    margin-right: 30px;
     border-radius: 18px;
 }
 .dive{
@@ -379,7 +379,7 @@ nav ul li{
 }
 .foots{
     background: rgb(34, 34, 34);
-    height: 500px;
+    height: 300px;
 }
 .dibe{
     background: rgb(34, 34, 34);
