@@ -203,15 +203,17 @@ nav ul li{
     margin-right: 20px;
     border-radius: 18px;
 }
-/* .dive{
+.dive{
     color: rgb(255, 255, 255);
     margin-bottom: 88px;
     margin-left: 50px;
+    position: static;
+    flex: none;
+    
 }
 .dive1{
-    position: static;
     width: 353px;
-    height: 58px;
+    height: 70px;
     padding: 0px;
     margin-left: 384.5px;
     margin-right: 702.5px;
@@ -222,14 +224,15 @@ nav ul li{
 .dive2{
     color: rgba(255, 255, 255, 0.5);
     width: 6741px;
-    height: 48px;
+    height: 70px;
     margin-top: 0px;
     font-size: 14px;
     font-weight: 400;
     padding: 0px;
     margin-left: 384.5px;    
-    margin-right: 384.5px;    
-} */
+    margin-right: 384.5px; 
+
+}
 .input{
     color: rgb(255, 255, 255);
 }
@@ -277,15 +280,33 @@ nav ul li{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     border-radius: 18px;
-    /* background: rgba(255, 255, 255, 0.1); */
     height: 603px;
     margin-bottom: 88px;
 }
 .main2-contain{
     position: relative;
     background: rgba(255, 255, 255, 0.1);
-    /* margin-top: 20px; */
 }
+/* .gd1{
+    grid-area: a;
+}
+.gd2{
+    grid-area: b;
+}
+.gd{
+    grid-area: c;
+}
+.gd{
+    grid-area: d;
+}
+.gd{
+    grid-area: e;
+}
+.gd{
+    grid-area: f;
+} */
+
+
 .im{
     width: 326.67px;
     height: 272px;
@@ -364,7 +385,7 @@ nav ul li{
 }
 hr{
     border: 2px solid rgba(255, 255, 255, 0.1);
-    width: 65%;
+    width: 81%;
 }
 .copyright{
     color: rgba(255, 255, 255, 0.5);

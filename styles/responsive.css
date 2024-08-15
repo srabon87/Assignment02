@@ -32,22 +32,23 @@
     .divs{
         flex-direction: column;
     }
-    .main2-contain{
-        grid-template-columns: repeat(6,1fr);
-    }
+    /* .main-contain{
+        grid-template-areas: 
+        "a"
+        "b"
+        "c"
+        "d"
+        "e"
+        "f";
+    } */
     .row{
         flex-direction: column;
     }
-    /* .dibe{
-        flex-direction: column;
-    }
-    .dib{
-        flex-direction: column;
-    }
-    .dib2{
-        flex-direction: column;
-    } */
+    
     .copyright{
+        flex-direction: column;
+    }
+    .dive{
         flex-direction: column;
     }
 }
