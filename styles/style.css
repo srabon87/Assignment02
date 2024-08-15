@@ -343,56 +343,73 @@ nav ul li{
     height: 450px;
 }
 .row{
-    
+    background: rgb(34, 34, 34);
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
     flex-direction: row;
-    margin-left: 160px;
-    margin-right: 250px;
     margin-top: 154px;
-    
-    
+    width: 1919px;
 }   
 .foot-t{
     color: rgb(230, 83, 60);
     font-weight: 800;
     font-size: 70px;  
     margin-bottom: 10px; 
+    background: rgb(34, 34, 34);
 }
 .foot-p{
     font-size: 14px;
     font-weight: 400;
     color: rgba(255, 255, 255, 0.5);
     margin-top: 0px;
+    background: rgb(34, 34, 34);
 }
 .cp{
     font-size: 14px;
     font-weight: 400;
     color: rgba(255, 255, 255, 0.5);
+    background: rgb(34, 34, 34);
 }
 .cgp{
     font-weight: 700;
     font-size: 32px;
     margin: 20px 0px;
+    background: rgb(34, 34, 34);
+}
+.foots{
+    background: rgb(34, 34, 34);
+    height: 500px;
+}
+.dibe{
+    background: rgb(34, 34, 34);
+    margin-left: 169px;
+    margin-right: 10px;
 }
 .dib{
     color: rgb(255, 255, 255);
     margin-left: 2px;
     margin-right: 152px;
     flex-direction: column;
+    background: rgb(34, 34, 34);
+    margin-left: 102px;
 }
 .dib2{
     color: rgb(255, 255, 255);
     flex-direction: column;
+    background: rgb(34, 34, 34);
+    margin-right: 400px;
 }
 hr{
-    border: 2px solid rgba(255, 255, 255, 0.1);
-    width: 81%;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    width: 80%;
+    background: rgb(34, 34, 34);
+    
 }
 .copyright{
     color: rgba(255, 255, 255, 0.5);
     text-align: center;
+    background: rgb(34, 34, 34);
 }
 .bmi{
     position: relative;
@@ -479,4 +496,29 @@ hr{
     border-radius: 42px;
     margin-bottom: 52px;
     
+}
+.inputs{
+    background:rgb(34, 34, 34);
+    display: flex;
+}
+.inputs2{
+    color: rgb(255, 255, 255);
+    width: 282.5px;
+    height: 30px;
+    padding: 8px 20px 8px 20px;
+    border-radius: 8px;
+    background:rgba(255, 255, 255, 0.1);
+    border: none;
+    margin-right: 12px;
+    margin-bottom: 12px;
+}
+.inputs3{
+    padding: 8px 20px 8px 20px;
+    border-radius: 8px;
+    background:rgba(255, 255, 255, 0.1);
+    border: none;
+    width: 577px;
+    height: 30px;
+    margin-bottom: 32px;
+    margin-right: 12px;
 }
