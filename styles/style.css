@@ -191,17 +191,17 @@ nav ul li{
     width: 1060px;
     height: 371px;
     align-items: center;
-    margin-left: 450px;
+    margin-left: 500px;
     background: rgb(34, 34, 34);
     border-radius: 18px;
     margin-bottom: 100px;
 }
 .all2{
     background: rgb(34, 34, 34);
-    margin-left: 20px;
+    margin-left: 40px;
 }
 .all3{
-    margin-right: 20px;
+    margin-right: 10px;
     border-radius: 18px;
 }
 .dive{
@@ -396,14 +396,9 @@ hr{
 }
 .bmi{
     position: relative;
-    width: 1900px;
+    width: 1930px;
     height: 487px;
-    /* align-self: stretch;
-    flex-grow: 0;
-    order: 2;
-    flex: none; */
     background: rgb(34, 34, 34);
-    /* margin: 88px 0px; */
     display: flex;
     justify-content: space-between;
     align-items: self-start;
@@ -431,7 +426,6 @@ hr{
     margin-top: 138px;
     margin-left: 250px;
     margin-bottom: 134px;
-    /* background: rgb(34, 34, 34); */
 }
 .cps{
     line-height: 120%;
