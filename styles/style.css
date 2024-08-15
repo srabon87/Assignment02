@@ -191,7 +191,7 @@ nav ul li{
     width: 1060px;
     height: 371px;
     align-items: center;
-    margin-left: 300px;
+    margin-left: 450px;
     background: rgb(34, 34, 34);
     border-radius: 18px;
     margin-bottom: 100px;
@@ -396,7 +396,7 @@ hr{
 }
 .bmi{
     position: relative;
-    width: 1720px;
+    width: 1900px;
     height: 487px;
     /* align-self: stretch;
     flex-grow: 0;
