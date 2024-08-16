@@ -188,14 +188,15 @@ nav ul li{
 .all{
     display: flex;
     justify-content: space-between;
-    width: 1150px;
+    width: 1190px;
     height: 371px;
     align-items: center;
     margin-left: 270px;
     background: rgb(34, 34, 34);
     border-radius: 18px;
     margin-bottom: 100px;
-    margin-right: 600px;
+    margin-right: 400px;
+    /* border: 1px solid red; */
     
 }
 .all2{
