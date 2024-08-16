@@ -30,17 +30,15 @@
         flex-direction: row;
     }
     .divs{
+        display: flex;
         flex-direction: column;
+        /* position: absolute; */
     }
-    /* .main-contain{
-        grid-template-areas: 
-        "a"
-        "b"
-        "c"
-        "d"
-        "e"
-        "f";
-    } */
+    .main-contain{
+        flex-direction: column;
+        position: static;
+        display: flex;
+    }
     .row{
         flex-direction: column;
     }
@@ -52,6 +50,26 @@
         flex-direction: column;
     }
     .bmi{
+        flex-direction: column;
+    }
+    .row{
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+    }
+    .dib{
+        position: static;
+        display: flex;
+        flex-direction: column;
+    }
+    .dibe{
+        position: static;
+        display: flex;
+        flex-direction: column;
+    }
+    .dib2{
+        position: static;
+        display: flex;
         flex-direction: column;
     }
     
