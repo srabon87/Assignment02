@@ -191,12 +191,11 @@ nav ul li{
     width: 1350px;
     height: 371px;
     align-items: center;
-    margin-left: 150px;
+    margin-left: 260px;
     background: rgb(34, 34, 34);
     border-radius: 18px;
     margin-bottom: 100px;
-    margin-right: 400px;
-    border: 1px solid red;
+    margin-right: 370px;
 }
 .all2{
     background: rgb(34, 34, 34);
