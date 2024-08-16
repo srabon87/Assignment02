@@ -55,7 +55,7 @@
     .row{
         display: flex;
         flex-direction: column;
-        position: absolute;
+        position:absolute;
     }
     .dib{
         position: static;
@@ -71,6 +71,31 @@
         position: static;
         display: flex;
         flex-direction: column;
+    }
+    .concs{
+        display: flex;
+        flex-direction: column; 
+        position: static;
+    }
+    .conc{
+        display: flex;
+        flex-direction: column;
+        position: static;
+    }
+    .conc2{
+        display: flex;
+        flex-direction: column;
+        position: static;
+    }
+    .inputs{
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+    }
+    .table{
+        display: flex;
+        flex-direction: column;
+        position: absolute;
     }
     
 }
