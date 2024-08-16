@@ -159,8 +159,8 @@ nav ul li{
     color: rgb(255, 255, 255);
     font-size: 48px;
     font-weight: 900;
-    width: 443px;
-    height: 116px;
+    /* width: 443px;
+    height: 116px; */
     padding: 0px;
     margin: 14px 0px;
     background: rgb(34, 34, 34);
@@ -188,21 +188,22 @@ nav ul li{
 .all{
     display: flex;
     justify-content: space-between;
-    width: 1350px;
+    width: 1700px;
     height: 371px;
     align-items: center;
-    margin-left: 260px;
+    margin-left: 270px;
     background: rgb(34, 34, 34);
     border-radius: 18px;
     margin-bottom: 100px;
-    margin-right: 370px;
+    margin-right: 360px;
+    
 }
 .all2{
     background: rgb(34, 34, 34);
-    margin-left: 30px;
+    margin-left: 40px;
 }
 .all3{
-    margin-right: 30px;
+    margin-right: 40px;
     border-radius: 18px;
 }
 .dive{
